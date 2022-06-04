@@ -5,3 +5,4 @@ def leap(year):
         return "not leap 📆"
     elif year % 4 == 0:
         return "leap 🐰"
+    return "not leap 📆"
