@@ -11,3 +11,7 @@ def test_year_divisible_by_100():
 
 def test_year_divisible_by_4():
     assert leap(1996) == "leap 🐰"
+
+
+def test_year_non_leap_year():
+    assert leap(1997) == "not leap 📆"
