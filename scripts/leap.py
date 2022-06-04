@@ -3,3 +3,5 @@ def leap(year):
         return "leap 🐰"
     elif year % 100 == 0:
         return "not leap 📆"
+    elif year % 4 == 0:
+        return "leap 🐰"
