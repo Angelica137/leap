@@ -3,7 +3,7 @@
 From Exercism Python track.
 Working towards my #100daysofcode
 
-the exercise is here 👉 [Leap](https://exercism.org/tracks/python/exercises/leap)
+The exercise is here 👉 [Leap](https://exercism.org/tracks/python/exercises/leap)
 
 ## Instructions
 
